@@ -1,6 +1,6 @@
 {
   "name": "lsp-ws-connection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility for adapting editors to language server protocol",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -31,10 +31,10 @@
     "vscode-jsonrpc": "^4.0.0",
     "vscode-languageclient": "^5.2.1",
     "vscode-languageserver-protocol": "^3.14.1",
-    "vscode-languageserver-types": "^3.14.0"
+    "vscode-languageserver-types": "^3.14.0",
+    "vscode-ws-jsonrpc": "0.1.1"
   },
   "devDependencies": {
-    "vscode-ws-jsonrpc": "0.1.1",
     "@types/expect": "^1.20.4",
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.0.7",
