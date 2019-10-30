@@ -28,7 +28,6 @@
   "homepage": "https://github.com/krassowski/lsp-editor-adapter",
   "repository": "github:krassowski/lsp-editor-adapter",
   "dependencies": {
-    "lodash-es": "^4.17.11",
     "vscode-jsonrpc": "^4.0.0",
     "vscode-languageclient": "^5.2.1",
     "vscode-languageserver-protocol": "^3.14.1",
@@ -37,7 +36,6 @@
   "devDependencies": {
     "vscode-ws-jsonrpc": "0.1.1",
     "@types/expect": "^1.20.4",
-    "@types/lodash-es": "^4.17.3",
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.0.7",
     "@types/sinon": "^7.0.12",
