@@ -1,6 +1,6 @@
 {
-  "name": "lsp-ws-wrapper",
-  "version": "0.0.10",
+  "name": "lsp-ws-connection",
+  "version": "0.1.0",
   "description": "Utility for adapting editors to language server protocol",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -25,8 +25,8 @@
     "lsp",
     "languageserver"
   ],
-  "homepage": "https://github.com/krassowski/lsp-editor-adapter",
-  "repository": "github:krassowski/lsp-editor-adapter",
+  "homepage": "https://github.com/krassowski/lsp-ws-connection",
+  "repository": "github:krassowski/lsp-ws-connection",
   "dependencies": {
     "vscode-jsonrpc": "^4.0.0",
     "vscode-languageclient": "^5.2.1",
